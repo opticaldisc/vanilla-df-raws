@@ -2,7 +2,7 @@ descriptor_color_standard
 
 [OBJECT:DESCRIPTOR_COLOR]
 
-Most of these are from Wikipedia's color list.
+Most of these are from Wikipedia's color list.  Palettes only support 255 colors max currently.
 
 [COLOR:AMBER]
 	[NAME:amber]
@@ -587,3 +587,8 @@ Most of these are from Wikipedia's color list.
 	[WORD:GREEN]
 	[WORD:YELLOW]
 	[RGB:154:205:50]
+
+[COLOR:BLUE-GRAY]
+	[NAME:blue-gray]
+	[WORD:GRAY]
+	[RGB:186:202:226]

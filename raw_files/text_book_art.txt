@@ -1,3 +1,9 @@
+text_book_art
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:BOOK_ART]
+
 [NAME]
 [PHRASE]
 [ADJ] [NO_ART_NAME]

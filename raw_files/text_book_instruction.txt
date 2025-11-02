@@ -1,3 +1,9 @@
+text_book_instruction
+
+[OBJECT:TEXT_SET]
+
+[TEXT_SET:BOOK_INSTRUCTION]
+
 [NAME]
 A Course on [NAME]
 A Humble Offering to [NAME]
